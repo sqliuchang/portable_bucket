@@ -4,7 +4,7 @@
     "homepage": "https://www.cnblogs.com/vinlxc/p/11347744.html",
     "license": "Freeware",
     "url": "https://raw.githubusercontent.com/sqliuchang/portable_packages/main/MusicTag/MusicTag v1.0.9.0.zip",
-    "hash": "71b58bc9d75fcb3702e53021ff152324fcc39aaf417159e2bd5c4a49b2170cd5",
+    "hash": "1e315add586f48af5050f997cf32d8e6b0f70075e99f401413064b8f9220372f",
     "pre_install": [
     "# Create initial config files",
     "if (!(Test-Path -Path \"$dir\\MusicTag.db\")) {",
