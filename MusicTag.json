@@ -29,6 +29,6 @@
     "persist": [
         "MusicTag.db",
         "MusicTag.dat",
-        "MusicTag.confg"
+        "MusicTag.config"
     ]
 }
