@@ -1,10 +1,10 @@
 {
-    "version": "1.0.0.4137",
+    "version": "1.0.0.4153",
     "description": "PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等",
     "homepage": "https://github.com/wmjordan/PDFPatcher",
     "license": "Freeware",
-    "url": "https://raw.githubusercontent.com/sqliuchang/portable_packages/main/PDFPatcher/PDFPatcher.1.0.0.4137.zip",
-    "hash": "98f5281cfa19b09684420f8c7a2b46455fd7ce816b762ae70333de80f48e2cb5",
+    "url": "https://raw.githubusercontent.com/sqliuchang/portable_packages/main/PDFPatcher/PDFPatcher.1.0.0.4153.zip",
+    "hash": "69448d167d32b8c99f441b643ff041defcb7fd6480c05e916eefe4bb242dc37d",
     "pre_install": [
     "# Create initial config files",
     "if (!(Test-Path -Path \"$dir\\AppConfig.json\")) {",
