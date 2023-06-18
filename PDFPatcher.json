@@ -4,7 +4,7 @@
     "homepage": "https://github.com/wmjordan/PDFPatcher",
     "license": "Freeware",
     "url": "https://raw.githubusercontent.com/sqliuchang/portable_packages/main/PDFPatcher/PDFPatcher.1.0.0.4172.zip",
-    "hash": "c4626457128ac3e30718e53acb1a8d14422736604dae7721d0ca1d229f7a6396",
+    "hash": "24f73070deac87d6b17ac884fd2b5cc5f92fbacd1bbb8b06fe333d602472b003",
     "pre_install": [
     "# Create initial config files",
     "if (!(Test-Path -Path \"$dir\\AppConfig.json\")) {",
